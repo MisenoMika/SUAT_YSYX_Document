@@ -29,9 +29,13 @@
 
 `Logisim`针对标签提供了一个非常好用的功能：**自编号标签（Self-numbered Labels）**，它可以让你在搭建电路时，快速地为一组标签自动编号，省去你重复输入的麻烦。
 
-![self-numbered labels演示](resource/self_numbered_labels_demo.gif)
+<p align="center">
+  <img src="resource/self_numbered_labels_demo.gif" width="60%" alt="self-numbered labels menu">
+</p>
 
-self-numbered labels使用演示
+<p align="center">
+    self-numbered labels使用演示
+</p>
 
 <br>
 <p align="center">
