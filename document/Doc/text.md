@@ -34,7 +34,7 @@ ysyx不是应试作业，而是完整的芯片工程训练。
 
 <br>
 <p align="center">
-  <img src="./resource/warning.png" alt="代价" width="60%" />
+  <img src="./resource/warning.png" alt="代价" width="85%" />
 </p>
 <br>
 
@@ -46,7 +46,7 @@ ysyx讲义是我们设计处理器的设计手册，但是请**不要**有“先
 
 <br>
 <p align="center">
-  <img src="./resource/bug.png" alt="不要质疑讲义" width="60%" />
+  <img src="./resource/bug.png" alt="不要质疑讲义" width="85%" />
 </p>
 <br>
 
@@ -62,7 +62,7 @@ ysyx的目的不是让我们将知识点“死记硬背”，而是在实践的�
 
 <br>
 <p align="center">
-  <img src="./resource/ask3.png" alt="大佬三连连" width="60%" />
+  <img src="./resource/ask3.png" alt="大佬三连连" width="85%" />
 </p>
 <br>
 
