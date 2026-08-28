@@ -141,5 +141,6 @@ man g++ # 查看g++的使用手册
 
 ## 资源墙裂推荐
 
- 1. Missing-Semester  一门帮助你上手Linux许多工具的教程  <https://missing-semester-cn.github.io/>
- 2. 洛谷 C++语法练习 <https://www.luogu.com.cn/training/list?type=srqc-jc>
+ 1. [Missing-Semester  一门帮助你上手Linux许多工具的教程](https://missing-semester-cn.github.io)
+ 2. [洛谷 C++语法练习](https://www.luogu.com.cn/training/list?type=srqc-jc)
+ 3. [一看就会！8分钟真机安装【Ubuntu/Windows】双系统-哔哩哔哩](https://b23.tv/5aDoB0s) (由ljm学长推荐)
