@@ -9,6 +9,7 @@
   <img src="resource/windows-monitor.png" width="100%" alt="windows tasks monitor">
 </p>
 如果没有启用，请进入BIOS设置开启虚拟化。
+具体操作为电脑刚开机时，根据你的电脑型号按下相应的快捷键进入BIOS设置（如我的联想r7000p是通过开机时快速连续按下F2进入BIOS，thinkpadx390则是按下F1进入BIOS），找到“VT-d”或“AMD-V”等有关CPU虚拟化的选项，将其设置为“Enabled”，然后保存并退出BIOS。如果找不到选项在哪里，可在网上自行搜索你电脑型号的CPU虚拟化开启教程。
 
 接着打开“控制面板”->“程序”->“启用或关闭Windows功能”，勾选“适用于Linux的Windows子系统”和“虚拟机平台(Virtual Machine Platform)”，然后点击确定，
 并重启电脑更改生效。
