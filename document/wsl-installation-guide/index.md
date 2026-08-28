@@ -63,10 +63,13 @@
 但此时的WSL还无法作为我们C++作业的完成平台，还需要配置一些必要的工具和环境。
 可以直接输入
 
+<!-- markdownlint-disable MD014 -->
+
 ```bash
-sudo apt update
-sudo apt install build-essential gdb
+$ sudo apt update
+$ sudo apt install build-essential gdb
 ```
+<!-- markdownlint-enable MD014 -->
 
 此处build-essential是一个包含了C/C++编译器和一些常用工具的包，gdb是GNU调试器，用于调试程序。
 完成了这些，你可以通过输入`g++ --version`和`gdb --version`来检查是否安装成功。
@@ -118,10 +121,14 @@ Unix-like: 类Unix系统，感兴趣的同学可以自行了解Unix系统以及L
 
 更多的选项可以通过`man`查询
 
+<!-- markdownlint-disable MD014 -->
+
 ```bash
-sudo apt install man # 安装man软件
-man g++ # 查看g++的使用手册
+$ sudo apt install man # 安装man软件
+$ man g++ # 查看g++的使用手册
 ```
+
+<!-- markdownlint-enable MD014 -->
 
 ### 4. C++这门课太难，怎么办
 
