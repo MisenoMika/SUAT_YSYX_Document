@@ -8,6 +8,8 @@
 <p align="center">
   <img src="resource/windows-monitor.png" width="100%" alt="windows tasks monitor">
 </p>
+如果显示为“已启用”，则可直接查看Step 2
+
 如果没有启用，请进入BIOS设置开启虚拟化。
 具体操作为电脑刚开机时，根据你的电脑型号按下相应的快捷键进入BIOS设置（如我的联想r7000p是通过开机时快速连续按下F2进入BIOS，thinkpadx390则是按下F1进入BIOS），找到“VT-d”或“AMD-V”等有关CPU虚拟化的选项，将其设置为“Enabled”，然后保存并退出BIOS。如果找不到选项在哪里，可在网上自行搜索你电脑型号的CPU虚拟化开启教程。
 
@@ -44,7 +46,7 @@
 - 报错`WINNET_E_CONNECTION_NAME_NOT_RESOLVED`，提示无法解析服务器的名称。  
   解决方法同上
 - 如果提示重启，则请重启电脑后继续配置。
-- 其他的问题欢迎向学长们反馈。
+- 其他的问题欢迎向学长学姐们反馈。
 
 ## Step 3: 配置WSL环境
 
